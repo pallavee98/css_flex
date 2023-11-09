@@ -1,0 +1,15 @@
+solution 1-->
+
+flex-->
+flex is one-dimensional.Flex is best suited where you have a row column of items, such as nav menus, cards-based design or centring conent with in a container.
+css-->
+css is two dimensional , allowing you to define rows and columns . it create a grid of cells where content can be placed in any cell or span across multiple cells. css grid is ideal fro complex grid-based design like magazine layouts, forms, and any layout where content needs to be placed in a precise grid structure.
+
+
+solution 2--->
+Justify-content: control the alignment of flex items along the main axis of the flex container. 
+align-items: control align items property controls the alignment of flex item along the cross axis of flex container. it specifies how items are positioned within their container along this axis.
+gap: the gap property is used to define space between flex items in both direction , both along the main axis and cross axis.
+flex-direction: determines direction in which flex items are placed within the flex-container. it defines the main axis and consequently, layout flow.
+flex-wrap: controls whether items are allowed to wrap onto multiple lines within flex container whrn they dont fit along the main-axis.
+
